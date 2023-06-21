@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\bin\Debug\net6.0\MatchMaker.exe
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\bin\Debug\net6.0\MatchMaker.deps.json
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\bin\Debug\net6.0\MatchMaker.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\bin\Debug\net6.0\MatchMaker.dll
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\bin\Debug\net6.0\MatchMaker.pdb
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.dll
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\refint\MatchMaker.dll
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.pdb
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\MatchMaker.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Bureaublad\Projects\other\MatchMaker\obj\Debug\net6.0\ref\MatchMaker.dll

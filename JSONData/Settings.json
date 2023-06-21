@@ -1,0 +1,7 @@
+{
+  "BaseModifier": 0,
+  "BonusModifier": -50,
+  "AmountModifier": -10,
+  "TimeModifier": 1,
+  "TruncateLength": 12
+}

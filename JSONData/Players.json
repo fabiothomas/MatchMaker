@@ -1,0 +1,164 @@
+[
+  {
+    "Name": "Alessio",
+    "Id": "a14e29a2-131b-451e-8c7a-f08d2d7be9ae",
+    "PrefComp": "C",
+    "BonusComp": null
+  },
+  {
+    "Name": "Amos",
+    "Id": "44c7ce3f-ce98-4fa8-b841-c48bfd5322dd",
+    "PrefComp": "C",
+    "BonusComp": null
+  },
+  {
+    "Name": "Ayza",
+    "Id": "b0d22912-e7bc-4059-a5e2-49e60d8515dd",
+    "PrefComp": "C",
+    "BonusComp": null
+  },
+  {
+    "Name": "Florian",
+    "Id": "1b5850ea-bd25-4a21-a95e-f7ad0c8136f4",
+    "PrefComp": "C",
+    "BonusComp": null
+  },
+  {
+    "Name": "Lina",
+    "Id": "b934162e-35f1-4aa5-a949-5a374748d1cd",
+    "PrefComp": "C",
+    "BonusComp": null
+  },
+  {
+    "Name": "Luca",
+    "Id": "521972d0-5ce4-478e-853b-3f4442721e7a",
+    "PrefComp": "C",
+    "BonusComp": null
+  },
+  {
+    "Name": "Mees",
+    "Id": "fc4d5054-103c-49bd-b4a5-6365482a3d8c",
+    "PrefComp": "C",
+    "BonusComp": null
+  },
+  {
+    "Name": "Mihail",
+    "Id": "f6164f6a-dc20-4134-bde3-08e3ddaf7baa",
+    "PrefComp": "C",
+    "BonusComp": "B"
+  },
+  {
+    "Name": "Eric",
+    "Id": "e67a873b-8e75-4bf6-987f-66bcc6f12b2d",
+    "PrefComp": "C",
+    "BonusComp": "B"
+  },
+  {
+    "Name": "Asya",
+    "Id": "8814c9bd-18c1-4b9f-b159-8d67bf921c66",
+    "PrefComp": "B",
+    "BonusComp": "A"
+  },
+  {
+    "Name": "Benjamin",
+    "Id": "5342575f-88a2-41dc-8e21-57a17e99bbd2",
+    "PrefComp": "B",
+    "BonusComp": null
+  },
+  {
+    "Name": "Daan",
+    "Id": "988e21f8-2946-40cd-8982-9ed56a2cbedd",
+    "PrefComp": "B",
+    "BonusComp": null
+  },
+  {
+    "Name": "Emery",
+    "Id": "e055258e-71f7-4919-8712-4b154ac735a1",
+    "PrefComp": "B",
+    "BonusComp": null
+  },
+  {
+    "Name": "Merlijn",
+    "Id": "aea0b4ff-dc7c-4031-945b-22607dff9e96",
+    "PrefComp": "B",
+    "BonusComp": "C"
+  },
+  {
+    "Name": "Jim",
+    "Id": "3bc86f79-b810-4809-bc41-7bb3e2b37bad",
+    "PrefComp": "B",
+    "BonusComp": null
+  },
+  {
+    "Name": "Noah",
+    "Id": "b586005f-5799-4485-884a-c622bfa480fb",
+    "PrefComp": "B",
+    "BonusComp": "C"
+  },
+  {
+    "Name": "Simon",
+    "Id": "12e128c4-44ce-444b-8e28-5ef996bfa164",
+    "PrefComp": "B",
+    "BonusComp": "A"
+  },
+  {
+    "Name": "Steven",
+    "Id": "4f9258d1-14c6-4d81-b88f-a46dfa002cd5",
+    "PrefComp": "B",
+    "BonusComp": null
+  },
+  {
+    "Name": "Ayelen",
+    "Id": "5096ea77-fa35-4e31-a5ec-f4c255784ab2",
+    "PrefComp": "B",
+    "BonusComp": null
+  },
+  {
+    "Name": "David",
+    "Id": "733f96c9-1ce9-446b-a135-8f24c79aaced",
+    "PrefComp": "A",
+    "BonusComp": null
+  },
+  {
+    "Name": "Ruben",
+    "Id": "e32faff2-c99a-4c5e-8503-5b7d13b50e7f",
+    "PrefComp": "A",
+    "BonusComp": null
+  },
+  {
+    "Name": "Niek",
+    "Id": "2cd55fa6-966d-4439-814f-be4151b3b459",
+    "PrefComp": "A",
+    "BonusComp": null
+  },
+  {
+    "Name": "Job",
+    "Id": "63655910-eabe-4d53-a46d-5369b5ef1767",
+    "PrefComp": "A",
+    "BonusComp": null
+  },
+  {
+    "Name": "Max",
+    "Id": "3b4e145e-06fe-4391-8cb8-04bbec5d9d27",
+    "PrefComp": "A",
+    "BonusComp": null
+  },
+  {
+    "Name": "Tariq",
+    "Id": "95d675f1-c3dd-4ca5-8635-b9dfc8edc31c",
+    "PrefComp": "A",
+    "BonusComp": "B"
+  },
+  {
+    "Name": "Tibor",
+    "Id": "63b3765d-9df3-4cc2-8afc-e360defea224",
+    "PrefComp": "A",
+    "BonusComp": null
+  },
+  {
+    "Name": "Daniel",
+    "Id": "15f8bcb1-d776-4067-b9c7-daf79c9b584f",
+    "PrefComp": "A",
+    "BonusComp": "B"
+  }
+]
